@@ -16,7 +16,7 @@ A modern weather forecast web application built with React, TypeScript, and Vite
 📱 Fully responsive design
 
 ## 📸 Live Preview
-🔗 **Visit the Site**: [Click Here](http://localhost:5173)
+🔗 **Visit the Site**: [Click Here](http://bit.ly/4bhvNpt)
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/9625bcac-0cbe-4d8c-9a9e-766044a3de85)
