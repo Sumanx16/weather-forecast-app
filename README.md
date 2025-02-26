@@ -16,7 +16,7 @@ A modern weather forecast web application built with React, TypeScript, and Vite
 📱 Fully responsive design
 
 ## 📸 Live Preview
-🔗 **Visit the Site**: [Click Here](http://bit.ly/4bhvNpt)
+🔗 **Visit the Site**: [Click Here](https://symphonious-capybara-13705d.netlify.app/)
 
 ## 📸 Screenshot
 ![image](https://github.com/user-attachments/assets/9625bcac-0cbe-4d8c-9a9e-766044a3de85)
