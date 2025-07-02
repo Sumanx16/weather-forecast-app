@@ -1,5 +1,4 @@
-# 🌤 Weather Forecast App
-A modern weather forecast web application built with React, TypeScript, and Vite. This app fetches real-time weather data using the OpenWeatherMap API and displays the current weather conditions along with a 5-day forecast.
+
 
 ## 🚀 Features
 
